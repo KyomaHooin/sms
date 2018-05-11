@@ -10,7 +10,7 @@ FILE
 voda/ - Vodafone client program.
 </pre>
 
-CONTACT
+SOURCE
 
-Source: https://github.com/KyomaHooin/sms
+https://github.com/KyomaHooin/sms
 
